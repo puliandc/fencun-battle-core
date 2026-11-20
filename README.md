@@ -20,4 +20,4 @@ npm test
 | `stepSettlementProgress` | 根据经过时间计算结算进度 |
 | `createSeededRng` | 可复现的随机结果，供示例和测试使用 |
 
-此仓库包含选定的战斗模块、终端示例和测试。许可证为 [MIT](LICENSE)。
+代码与文档采用 [MIT](LICENSE) 许可证。角色卡面、头像、界面和特效见 [美术素材](art/README.md)。

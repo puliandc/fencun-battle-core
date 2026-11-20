@@ -1,6 +1,6 @@
 {
   "name": "fencun-battle-core",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "从《分寸江湖》提取的回合制战斗逻辑",
   "type": "module",
   "private": true,
